@@ -1,0 +1,12 @@
+{
+  "name": "vapid-test",
+  "version": "0.0.0",
+  "description": "This is a demonstration of the vapid CMS interface.",
+  "main": "index.js",
+  "author": "Westbrook Johnson",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "vapid-cli": "^0.1.23"
+  }
+}

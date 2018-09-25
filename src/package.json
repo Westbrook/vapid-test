@@ -1,0 +1,13 @@
+{
+  "name": "src",
+  "vapid": {},
+  "scripts": {
+    "start": "vapid start ."
+  },
+  "dependencies": {
+    "@lingolive/page": "git+https://github.com/lingolive/ll-page.git#1.0",
+    "@lingolive/navigation-item": "git+https://github.com/lingolive/ll-navigation-item.git#1.0",
+    "@polymer/polymer": "^3.0.5",
+    "vapid-cli": "^0.1.23"
+  }
+}
